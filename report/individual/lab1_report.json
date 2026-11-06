@@ -1,0 +1,32 @@
+{
+ "seed": 1654,
+ "predictions": {
+  "ml_f1": {
+   "text": "0.88",
+   "time": "12:31:32"
+  },
+  "ml_lr": {
+   "text": "0.87",
+   "time": "12:31:37"
+  },
+  "dl_curve": {
+   "text": "0.01",
+   "time": "12:31:59"
+  },
+  "dl_relu": {
+   "text": "0.9",
+   "time": "12:32:06"
+  },
+  "emb_search": {
+   "text": "spam",
+   "time": "12:33:35"
+  },
+  "emb_tricky": {
+   "text": "3b",
+   "time": "12:34:29"
+  },
+  "llm_models": {
+   "text": 
+  }
+}
+}
